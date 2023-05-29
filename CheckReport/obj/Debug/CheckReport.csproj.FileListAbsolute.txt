@@ -1,0 +1,15 @@
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\bin\Debug\CheckReport.exe.config
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\bin\Debug\CheckReport.exe
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\bin\Debug\CheckReport.pdb
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\bin\Debug\MySql.Data.dll
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.csproj.AssemblyReference.cache
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.addmaindoc.resources
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.Form1.resources
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.MyImage.resources
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.Properties.Resources.resources
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.RegistDoccument.resources
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.csproj.GenerateResource.cache
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.csproj.CoreCompileInputs.cache
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.csproj.CopyComplete
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.exe
+C:\Users\TA\OneDrive\Desktop\ManagerReport\CheckReport\CheckReport\obj\Debug\CheckReport.pdb
